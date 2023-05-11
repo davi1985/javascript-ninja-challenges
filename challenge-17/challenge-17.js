@@ -5,7 +5,6 @@
 */
 (() => {
   "use strict";
-
   /*
 Em todos os exercícios desse desafio, nós vamos utilizar expressões
 regulares! Para isso, iremos usar o texto abaixo. Coloque-o em uma
